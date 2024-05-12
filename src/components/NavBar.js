@@ -49,8 +49,7 @@ export const NavBar = () => {
             </Nav>
             <span className="navbar-text">
               <div className="social-icon">
-                <a target="__blank" href="https://www.linkedin.com/in/m-shayan-shakeel-795899203?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src={navIcon1} alt="" /></a>
-                <a target="__blank" href="https://www.instagram.com/mshayanabbasi/?igsh=ZGo1ZmJ3MGU0Y3Bz"><img src={navIcon3} alt="" /></a>
+                {/* <a target="__blank" href="https://www.linkedin.com/in/m-shayan-shakeel-795899203?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src={navIcon1} alt="" /></a> */}
               </div>
               <HashLink to='#connect'>
                 <button className="vvd"><span>Let’s Connect</span></button>
