@@ -16,18 +16,12 @@ export const Projects = () => {
 
   const projects = [
     {
-      title: "WatsPI",
-      description: "WatsPI: A MERN stack project showcasing seamless integration of MongoDB, Express.js, React.js, and Node.js for robust, efficient web solutions.",
+      title: "FoodWeb",
+      description: "Developed a dynamic food website using React JS and Redux for state management. The site features an intuitive interface for browsing recipes, viewing nutritional information, and interacting with a variety of food-related content.",
       imgUrl: projImg1,
-      link: "https://watspi-user-plum.vercel.app/dashboard2",
+      link: "https://food-pizza.vercel.app/",
     },
-    {
-      title: "WatsPI-White-Theme",
-      description: "WatsPI: A MERN stack project featuring a white theme, demonstrating seamless integration of MongoDB, Express.js, React.js, and Node.js for robust web solutions.",
-      imgUrl: projImg2,
-      link: "https://production-witspi.vercel.app/dashboard2",
-
-    },
+    
     {
       title: "E-Commerce Project",
       description: "E-Commerce website prototype has an impressive user interface (UI) and dynamic functionalities, but the backend isn't deployed. Despite the lack of a visible UI, the backend still includes important features like user authentication, tokenization, and more.",
@@ -52,6 +46,15 @@ export const Projects = () => {
       imgUrl: projImg3,
       link: "https://urgent-ui.vercel.app/",
     },
+
+    {
+      title: "FoodWeb",
+      description: "Developed a dynamic food website using React JS and Redux for state management. The site features an intuitive interface for browsing recipes, viewing nutritional information, and interacting with a variety of food-related content.",
+      imgUrl: projImg2,
+      link: "https://food-pizza.vercel.app/",
+
+    }
+
   ];
 
   return (
