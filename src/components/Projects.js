@@ -48,10 +48,10 @@ export const Projects = () => {
     },
 
     {
-      title: "FoodWeb",
-      description: "Developed a dynamic food website using React JS and Redux for state management. The site features an intuitive interface for browsing recipes, viewing nutritional information, and interacting with a variety of food-related content.",
+      title: "TODO APP",
+      description:  "Manage your tasks with a seamless flow Powered by React, its ready to go.Plan your day, stay ahead of the game,Every task, every goal—just a click away.Your productivity partner, every single day.",
       imgUrl: projImg2,
-      link: "https://food-pizza.vercel.app/",
+      link: "https://todo-app-react-nine-kappa.vercel.app/",
 
     }
 
