@@ -36,7 +36,7 @@ export const NavBar = () => {
       <Navbar expand="md" className={scrolled ? "scrolled" : ""}>
         <Container>
           <Navbar.Brand href="/">
-            <h1 style={{ fontWeight: "revert", color: "#FFFFFF" }}>Muhamad Husnain</h1>
+            <h1 style={{ fontWeight: "revert", color: "#FFFFFF" }}>Muhammad Husnain</h1>
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav">
             <span className="navbar-toggler-icon"></span>
