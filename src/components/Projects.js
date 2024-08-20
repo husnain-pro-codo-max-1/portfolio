@@ -53,7 +53,33 @@ export const Projects = () => {
       imgUrl: projImg2,
       link: "https://todo-app-react-nine-kappa.vercel.app/",
 
+    },
+
+    {
+      title: "DCFA",
+      description:  "I developed a dynamic website using React JS and Tailwind CSS, featuring a farmer registration system, a visually appealing home page, a gallery showcasing relevant images, and an informative about page. user-friendly interfaces and manage front-end development efficiently.",
+      imgUrl: projImg2,
+      link: "https://d-cfa-web.vercel.app/",
+
+    },
+
+    {
+      title: "Youtube clone",
+      description:  "Developed a basic YouTube clone using React JS and Tailwind CSS, featuring video listings and responsive design.",
+      imgUrl: projImg2,
+      link: "https://youtube-clone-static.vercel.app/",
+
+    },
+
+    {
+      title: "Basic UI",
+      description:  "Designed a basic UI using React JS and Tailwind CSS, focusing on clean, and functional front-end elements.",
+      imgUrl: projImg2,
+      link: "https://basic-ui-eight.vercel.app/",
+
     }
+
+
 
   ];
 
